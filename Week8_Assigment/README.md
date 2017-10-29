@@ -58,6 +58,9 @@ Vulnerability #2: Cross-Site Request Forgery
   
   Walkthrough:
   <img src='https://i.imgur.com/HvgSLrb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Resource
+
+GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
