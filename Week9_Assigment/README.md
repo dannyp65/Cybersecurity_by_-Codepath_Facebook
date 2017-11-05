@@ -8,8 +8,8 @@ Time spent: 3 hours spent in total
 
 ## Writeup:
 ### Deployed honeypots:
-Dionaea
-Cowrie
+	Dionaea
+	Cowrie
 ### Issues encountered:
 I had probems running the script on Cowrie Honeypot, I ran the sript multiple time but the same error occured, I coundl't resolve this problem. As result, the admin honeypot could not listen attacks from Cowrie honeypot.
 
