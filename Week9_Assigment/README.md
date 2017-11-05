@@ -22,7 +22,7 @@ See session.json file in this repository
 ## Walkthrought:
 Here is the video walkthrough of the MHN and honeypots:
 	Walkthrough: 
-  	<img src='https://i.imgur.com/qL7tywc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  	<img src='https://i.imgur.com/RBzJa9G.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Resource
 
